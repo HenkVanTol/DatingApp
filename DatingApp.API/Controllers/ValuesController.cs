@@ -8,7 +8,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DatingApp.API.Controllers
 {
-    //test git 123
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
